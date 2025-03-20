@@ -1,3 +1,7 @@
+# 1η ΑΣΚΗΣΗ ΦΩΤΟΓΡΑΜΜΕΤΡΙΑ Ι
+# ΑΘΑΝΑΣΕΛΗ ΑΡΕΤΗ
+# geo20391002
+# 10ο ΕΞΑΜΗΝΟ 
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
